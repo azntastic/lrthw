@@ -32,3 +32,6 @@ print_a_line(current_line, current_file)
 
 current_line = current_line + 1
 print_a_line(current_line, current_file)
+
+#still rather unsure how this works - why is there a gets.chomp on
+#line 12. Also difficult to understand the progression of current_line
